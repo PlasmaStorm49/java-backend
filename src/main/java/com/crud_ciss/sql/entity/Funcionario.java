@@ -1,4 +1,4 @@
-package com.example.crud_ciss;
+package com.crud_ciss.sql.entity;
 
 
 import jakarta.persistence.*;

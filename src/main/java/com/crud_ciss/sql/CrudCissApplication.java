@@ -1,4 +1,4 @@
-package com.example.crud_ciss;
+package com.crud_ciss.sql;
 
 
 import org.slf4j.Logger;
@@ -8,6 +8,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
+
+import com.crud_ciss.sql.repository.FuncionarioRepository;
 
 
 @SpringBootApplication
